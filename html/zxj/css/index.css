@@ -148,4 +148,4 @@ h3.blogtitle { line-height: 30px; height: 30px; margin: 10px 0; }
 .meandblog li { background: #f1f1f1; line-height: 30px; margin: 5px 0; padding: 0 0 0 10px; border-radius: 10px; border-top: 2px solid #e2e2e2; text-shadow: #eae7e7 0px 0px 1px; }
 .meandblog li a:hover { color: #000 }
 .form_text{width: 100%;height: 30px;font-size: 20px;}
-.form_submit{margin-top: 10px;width: 300px;height: 60px;background-color: #333;color: white;font-size: 20px;border-radius: 10px;}
+.form_submit{margin-top: 10px;width: 70%;height: 60px;background-color: #333;color: white;font-size: 20px;border-radius: 10px;}
